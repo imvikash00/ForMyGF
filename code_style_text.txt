@@ -1,0 +1,49 @@
+/* &#10084;
+********************************************************************************
+*
+* File:         ForSweta.py
+* Description:  5 month journey with Sweta Singh in Code.
+* Author:       Vikash Kumar
+* Created:      Mon June  14 10:27:10 2006
+* Status:       Experimental (Do Not Distribute)
+*
+* (c) Copyright 2016, Vikash Kumar, all rights reserved.
+*
+********************************************************************************
+*/ &#10084;
+
+
+/*
+* I hope you like it babe &#9996;
+*/
+Boy I = new Boy("Vikash Kumar");
+Girl U = new Girl("Sweta Singh");
+print( I.meet(U) );
+Mon August 18 9:30:23 2015
+
+
+print I.propose(U);
+Sat Dec 5 21:14:18 2015
+print U.accept(I);
+Sat Dec 5 21:20:00 2015
+print FirstDate(U,I);
+Sun Dec 13 00:00:00 2015
+Garuda Mall -> In the Heart of the Sea -> LalBagh -> PaperBoat (Jamun Kala Khatta &#10084; Aamras)
+
+print MoviesWatched(U,I);
+In the Heart of the Sea, Sanam Re, Kapoor & Sons, The Jungle Book, The Danish Girl, DeadPool, Revenant, The Kung Fu Panda 3, Batman v Superman: Dawn of Justice , The good dinosaur, Alvin and the chipmunks,Bajirao mastani, Pyar ka punchnama, Zootopia, Gods of Egypt
+
+print PlacesVisited(U,I);
+LalBagh, Bheemeshwari, Wonderla, Innovative Flim City, WaterWorld, shivasamundaram, Iscon Temple, Cream stone, Milano, Lumbini Gardens, Nandi Hills
+
+
+
+
+//I met you on 16th January 2015
+// Since then, I miss u every day.
+I.miss(U);
+// The first time I hold your hand.
+I.hold(U.hand);
+// The first time you gave me a hug.
+U.hug(I);
+// I cherish the them.
