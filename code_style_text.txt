@@ -18,23 +18,29 @@
 */
 Boy I = new Boy("Vikash Kumar");
 Girl U = new Girl("Sweta Singh");
-print( I.meet(U) );
+print I.meet(U);
 Mon August 18 9:30:23 2015
-
+print I.crushOn(U); 
+Wed Sep 9 00:00:00 2015 - Fri Sep 14 00:00:00 2015 //I starting liking you somewhere here.   
 
 print I.propose(U);
 Sat Dec 5 21:14:18 2015
 print U.accept(I);
 Sat Dec 5 21:20:00 2015
-print FirstDate(U,I);
+print I.firstDate(U);
 Sun Dec 13 00:00:00 2015
 Garuda Mall -> In the Heart of the Sea -> LalBagh -> PaperBoat (Jamun Kala Khatta &#10084; Aamras)
+U.hold(I.hand);
+I.kiss(U);
+U.hug(I);
+
+
 
 print MoviesWatched(U,I);
 In the Heart of the Sea, Sanam Re, Kapoor & Sons, The Jungle Book, The Danish Girl, DeadPool, Revenant, The Kung Fu Panda 3, Batman v Superman: Dawn of Justice , The good dinosaur, Alvin and the chipmunks,Bajirao mastani, Pyar ka punchnama, Zootopia, Gods of Egypt
 
 print PlacesVisited(U,I);
-LalBagh, Bheemeshwari, Wonderla, Innovative Flim City, WaterWorld, shivasamundaram, Iscon Temple, Cream stone, Milano, Lumbini Gardens, Nandi Hills
+LalBagh, Bheemeshwari, Wonderla, Innovative Flim City, WaterWorld, shivasamundaram, Iscon Temple, Cream stone, Milano, Lumbini Gardens, Nandi Hills; Fire exit &#x1f61b;
 
 
 
